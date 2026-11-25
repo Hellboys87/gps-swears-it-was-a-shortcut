@@ -12,7 +12,7 @@ The GPS's one-line excuse for sending the driver down the wrong road, written fo
 node main.ts
 ```
 
-Writes the excuse (109 characters, one line) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`).
+Writes the excuse (117 characters, one line) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`).
 
 ---
 

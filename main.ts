@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "I cut through this wedding because the map promised me cake, and frankly the cake was worth your missed exit.";
+  "The map swore the cake was on your route, so I cut through this wedding — and frankly, it was worth your missed exit.";
 
 if (!line || line.trim().length === 0 || line.includes("\n") || line.length > 200) {
   console.error("Invalid entry line");
